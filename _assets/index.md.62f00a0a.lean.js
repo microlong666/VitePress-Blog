@@ -1,0 +1,1 @@
+import{g as e,f as t}from"./common-daabc399.js";const r='{"title":"Home","frontmatter":{"page":true,"home":true,"date":"2021-05-20","title":"首页","describe":"首页"},"relativePath":"index.md","lastUpdated":1621774618725.285}';var a={};a.render=function(r,a,o,d,i,m){return t(),e("div")};export default a;export{r as __pageData};

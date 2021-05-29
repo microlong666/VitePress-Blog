@@ -1,0 +1,1 @@
+import{g as t,f as e}from"./common-daabc399.js";const a='{"title":"💬 留言","frontmatter":{"page":true,"date":"2021-05-20","title":"💬 留言","describe":"留言"},"relativePath":"message.md","lastUpdated":1621774919863.7253}';var r={};r.render=function(a,r,d,o,s,i){return e(),t("div")};export default r;export{a as __pageData};
