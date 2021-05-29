@@ -4,7 +4,7 @@
 
 基于 ASP.NET 4.0 （非 MVC） 和 Markdown 的博客，使 VitePress 变为动态。感谢 [CrazyMrYan](https://github.com/CrazyMrYan/blog) 的 VitePress 博客项目。
 
-![index](https://z3.ax1x.com/2021/05/29/2AiMlD.png)
+![index](sreenshot.png)
 
 ## 技术架构
 
