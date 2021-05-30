@@ -159,7 +159,7 @@
                                     type="button"><span>🚀 关于</span><span class="right arrow"></span></button>
                                 <ul class="nav-dropdown">
                                     <li key="/README" class="dropdown-item">
-                                        <div class="nav-item" data-v-a68d406c><a class="nav-link" href="./about.aspx"
+                                        <div class="nav-item" data-v-a68d406c><a class="nav-link" href="./about.html"
                                                 target="" rel="">📜 站长之家
                                             </a></div>
                                     </li>
